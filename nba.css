@@ -1,0 +1,10 @@
+h1{text-align: center;
+color: maroon;
+font-size: 100px}
+div.important{font-size: 40px;
+color: black;}
+p{font-size: 40px;}
+img{float: left;}
+div.class{width30%;
+float: right;
+background-color: yellow;}
